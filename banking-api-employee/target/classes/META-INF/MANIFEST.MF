@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: rajes
+Build-Jdk: 11.0.9.1
+Implementation-Title: banking-api-employee
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.anything
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/banking-api-employee
+Created-By: Maven Integration for Eclipse
+
